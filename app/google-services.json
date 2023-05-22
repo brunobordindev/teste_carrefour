@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066266644753",
+    "project_id": "testecarrefour-4030a",
+    "storage_bucket": "testecarrefour-4030a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066266644753:android:714b9b946bd7e1c7227cb0",
+        "android_client_info": {
+          "package_name": "com.example.testecarrefour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066266644753-bd5ambao7ghtf6al6j5o21f834k7v67c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testecarrefour",
+            "certificate_hash": "6b833e359e0d198fbf3ef20522519d0d2ca1f5f5"
+          }
+        },
+        {
+          "client_id": "1066266644753-ukacelupbntoh7vt9qc7dte4b61693ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcyi0LJVsvt_8_GYxZhOReI04WA0oNwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066266644753-ukacelupbntoh7vt9qc7dte4b61693ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
